@@ -1,0 +1,21 @@
+repositories:
+  foonathan_memory_vendor:
+    type: git
+    url: https://github.com/tiiuae/foonathan_memory_vendor.git
+    version: v1.1.0
+  fastcdr:
+    type: git
+    url: https://github.com/tiiuae/Fast-CDR.git
+    version: tii_build_scripts_v1.0.22
+  fastrtps:
+    type: git
+    url: https://github.com/tiiuae/Fast-DDS.git
+    version: v2.5.0
+  rosidl_typesupport_fastrtps:
+    type: git
+    url: https://github.com/ros2/rosidl_typesupport_fastrtps.git
+    version: galactic
+  rmw_fastrtps:
+    type: git
+    url: https://github.com/tiiuae/rmw_fastrtps.git
+    version: feature/pkcs11_support-galactic
