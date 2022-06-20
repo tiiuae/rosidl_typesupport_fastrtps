@@ -1,2 +1,2 @@
 fastcdr:
-    ubuntu: ros-ROS_DISTRO-fastcdr=1.0.22*
+    ubuntu: ros-ROS_DISTRO-fastcdr=1.0.23*

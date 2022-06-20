@@ -2,15 +2,15 @@ repositories:
   foonathan_memory_vendor:
     type: git
     url: https://github.com/tiiuae/foonathan_memory_vendor.git
-    version: v1.1.0
+    version: v1.2.1
   fastcdr:
     type: git
     url: https://github.com/tiiuae/Fast-CDR.git
-    version: tii_build_scripts_v1.0.22
+    version: tii_build_scripts_v1.0.23
   fastrtps:
     type: git
     url: https://github.com/tiiuae/Fast-DDS.git
-    version: v2.5.0
+    version: v2.5.1
   rosidl_typesupport_fastrtps:
     type: git
     url: https://github.com/ros2/rosidl_typesupport_fastrtps.git

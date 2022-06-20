@@ -29,6 +29,5 @@ echo "[INFO] Packages to build: $PKGS_TO_BUILD"
 
 echo "[INFO] Build package dependencies."
 colcon build \
-    --packages-select ${PKGS_TO_BUILD} \
-    --allow-overriding ${PKGS_TO_BUILD}
+    --packages-select ${PKGS_TO_BUILD}
 popd > /dev/null
